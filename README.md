@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>Cursando Javascript.</strong>
+  🦄 Linguagens: <strong>No momento cursando HTML e leve conhecimento em javascript, no futuro quero aprender python.</strong>
 </p>
 
 <p align="left">
