@@ -2,7 +2,7 @@
 
 <p align="left"> 
   Olá, Sou Lucas dos Santos, 27 anos, cursando <strong> Web Developer Full Stack</strong>.<br> 
-  pela growdev e atualmente sou Assistente de logistica.
+  pela growdev e atualmente sou Assistente de logistica .
 </p>
 
 <p align="left">
