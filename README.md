@@ -1,20 +1,28 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 <p align="left"> 
-  Olá, Sou Lucas dos Santos, 27 anos, cursando <strong> Web Developer Full Stack</strong>.<br> 
-  pela growdev e atualmente sou Assistente de logistica .
+  Olá, Sou Lucas Santos, 27 anos, cursando <strong> Web Developer Full Stack</strong>.<br> 
+  Concedido pela <strong> Growdev</strong> e atualmente trabalho em regime CLT como Assistente de logistica .
 </p>
 
 <p align="left">
-  🦄 Linguagens: <strong>No momento cursando HTML e leve conhecimento em javascript, no futuro quero aprender python.</strong>
+  🐱‍🏍 Linguagens: <strong>No momento cursando HTML no modulo front end 1 do curso, porém vou estudar javascript futuramente.</strong>
 </p>
 
 <p align="left">
-  💼 Ferramentas: <strong>react, angularjs.</strong>
+  🐱‍👤 Intresses No futuro: <strong> Gostaria de me especializar em Javascript e Python .</strong>
 </p>
 
 <p align="left">
-  💌 Minhas redes sociais: ⤵️
+  🚀 Idiomas: <strong> Tenho interesse em estudar Ingles em breve.</strong>
+</p>
+
+<p align="left">
+  💼 Ferramentas: <strong> Aprendendo sobre React, nodeJS, Typescript e git. </strong>
+</p>
+
+<p align="left">
+  🎫 Minhas redes sociais: ⤵️
 </p>
 
 
