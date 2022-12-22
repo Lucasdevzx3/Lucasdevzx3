@@ -6,7 +6,7 @@
 </p>
 
 <p align="left">
-  🐱‍🏍 Linguagens: <strong>No momento cursando HTML no modulo front end 1 do curso, porém vou estudar javascript futuramente.</strong>
+  🐱‍🏍 Linguagens: Vou estudar <i> Front end</i> e <i>Back end</i> no programa, no momento cursando HTML no modulo <strong> front end 1 </strong> do curso, a linguagem que vou utilizar durante o curso será <strong>Javascript</strong> futuramente 🌠.
 </p>
 
 <p align="left">
@@ -14,7 +14,7 @@
 </p>
 
 <p align="left">
-  🚀 Idiomas: <strong> Tenho interesse em estudar Ingles em breve.</strong>
+  🚀 Idiomas: <strong> Tenho interesse em estudar Inglês em breve.</strong>
 </p>
 
 <p align="left">
